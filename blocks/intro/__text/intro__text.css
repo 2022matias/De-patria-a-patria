@@ -7,3 +7,9 @@
 	line-height: 30px;
 	color: #FFFFFF;
 }
+
+@media screen and (min-width: 1280px) {
+	.intro__text {
+		padding-right: 297px;
+}
+}

@@ -1,4 +1,4 @@
-.place__paragraph1 {
+.place__paragraph3 {
 	margin: 0 auto;
 	padding: 0 16px;
 	font-family: 'Inter';
@@ -7,16 +7,21 @@
 	font-size: 16px;
 	line-height: 163%;
 	color: #FFFFFF;
+	padding-top: 7px;
 }
 
 @media screen and (min-width: 768px) {
-	.place__paragraph1{
+	.place__paragraph3 {
 		padding: 0;
+		grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 4;
+    grid-row-end: 5;
 	}
 }
 
 @media screen and (min-width: 1280px) {
-	.place__paragraph1 {
+	.place__paragraph3 {
 		
 }
 }

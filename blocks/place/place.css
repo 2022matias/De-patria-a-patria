@@ -3,3 +3,20 @@
 	display: flex;
 	flex-direction: column;
 }
+
+@media screen and (min-width: 768px) {
+	.place {
+		display: grid;
+		/* grid-template-columns: repeat(2, calc((720px-28px)/2)); */
+		grid-template-columns: 346px 346px;
+		grid-template-rows: 6fr;
+		align-self: start;
+	}
+}
+
+@media screen and (min-width: 1280px) {
+	.place {
+		width: 284px;
+		height: 213px;
+}
+}

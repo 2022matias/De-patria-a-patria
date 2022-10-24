@@ -8,3 +8,15 @@
 	text-align: right;
 	color: #FFFFFF;
 }
+
+@media screen and (min-width: 768px) {
+	.intro__footer {
+		padding-bottom: 32px;
+	}
+}
+
+@media screen and (min-width: 1280px) {
+	.intro__footer {
+		padding-right: 297px;
+}
+}

@@ -8,3 +8,17 @@
 	color: #FFFFFF;
 	padding-bottom: 9px;
 }
+
+@media screen and (min-width: 768px) {
+	.intro__tittle {
+		font-size: 54px;
+		line-height: 58px;
+		padding-bottom: 15px;
+	}
+}
+
+@media screen and (min-width: 1280px) {
+	.intro__tittle {
+		padding-bottom: 40px;
+}
+}
