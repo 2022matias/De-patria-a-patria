@@ -1,0 +1,6 @@
+.places {
+	padding-top: 62px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}

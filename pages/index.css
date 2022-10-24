@@ -1,0 +1,64 @@
+@import url(../vendor/normalize.css);
+
+@import url(../blocks/body/body.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/lead/__title/lead__title.css);
+@import url(../blocks/lead/__subtitle/lead__subtitle.css);
+@import url(../blocks/lead/__image/lead__image.css);
+
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/intro/__footer/intro__footer.css);
+@import url(../blocks/intro/__text2/intro__text2.css);
+
+@import url(../blocks/gallery/gallery.css);
+@import url(../blocks/gallery/__image/gallery__image.css);
+
+@import url(../blocks/places/places.css);
+
+@import url(../blocks/place/place.css);
+@import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/__website/place__website.css);
+@import url(../blocks/place/__website/__url-heading/place__website__url-heading.css);
+@import url(../blocks/place/__website/__artist/place__website__artist.css);
+@import url(../blocks/place/__image/place__image.css);
+@import url(../blocks/place/__paragraph1/place__paragraph1.css);
+@import url(../blocks/place/__paragraph2/place__paragraph2.css);
+@import url(../blocks/place/__button/place__button.css);
+@import url(../blocks/place/__button/-text/place__button-text.css);
+
+@import url(../blocks/overlay/overlay.css);
+@import url(../blocks/overlay/__title/overlay__title.css);
+@import url(../blocks/overlay/__subtitle/overlay__subtitle.css);
+@import url(../blocks/overlay/__button/overlay__button.css);
+@import url(../blocks/overlay/__button/-text/overlay__button-text.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__text/footer__text.css);
+
+
+:root { font-family: 'Inter', sans-serif; }
+@supports (font-variation-settings: normal) {
+:root { font-family: 'Inter var', sans-serif; }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

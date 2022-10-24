@@ -1,0 +1,11 @@
+
+.overlay__button {
+	width: 198px;
+	height: 48px;
+	background: #0278FE;
+	border-radius: 4px;
+}
+
+.overlay__button:hover {
+	background-color: #0063D2;
+}

@@ -1,0 +1,11 @@
+.place__button {
+	margin: 8px 16px 16px;
+	width: 288px;
+	height: 48px;
+	background: #0278FE;
+	border-radius: 4px;
+}
+
+.place__button:hover {
+	background: #0063D2;
+}

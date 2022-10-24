@@ -1,0 +1,16 @@
+.overlay {
+	margin: auto;
+	opacity: 0.3;
+	background-image: url(../../images/overlay-background.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	height: 254px;
+	width: 320px;
+}
+
+.overlay:hover {
+	opacity: 0.8;
+}
