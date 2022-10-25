@@ -7,16 +7,20 @@
 @media screen and (min-width: 768px) {
 	.place {
 		display: grid;
-		/* grid-template-columns: repeat(2, calc((720px-28px)/2)); */
 		grid-template-columns: 346px 346px;
-		grid-template-rows: 6fr;
+		grid-template-rows: 5fr;
 		align-self: start;
+		grid-column-gap: 28px;
+		grid-row-gap: 11px;
 	}
 }
 
 @media screen and (min-width: 1280px) {
 	.place {
-		width: 284px;
-		height: 213px;
+		grid-template-columns: 472px 472px;
+		grid-template-rows: 5fr;
+		align-self: start;
+		grid-column-gap: 40px;
+		grid-row-gap: 17px;
 }
 }

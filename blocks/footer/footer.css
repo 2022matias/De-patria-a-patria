@@ -2,3 +2,15 @@
 	padding-top: 64px;
 	padding-bottom: 24px;
 }
+
+@media screen and (min-width: 768px) {
+	.overlay__subtitle {
+		padding-top: 88px
+	}
+}
+
+@media screen and (min-width: 768px) {
+	.overlay__subtitle {
+		padding-top: 92px;
+	}
+}
