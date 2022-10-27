@@ -1,5 +1,5 @@
 .place__button {
-	margin: 8px 16px 16px;
+	margin: 0px 14px 32px;
 	width: 288px;
 	height: 48px;
 	background: #0278FE;
@@ -12,12 +12,13 @@
 
 @media screen and (min-width: 768px) {
 	.place__button {
-		padding: 0;
-		grid-column-start: 1;
-    grid-column-end: 2;
-    grid-row-start: 3;
-    grid-row-end: 4;
-		width: 355px;
-		height: 48px;
+		width: 347px;
+		margin: 0;
+	}
+}
+
+@media screen and (min-width: 1280px) {
+	.place__button {
+		width: 347px;
 	}
 }

@@ -1,5 +1,5 @@
 .overlay {
-	margin: auto;
+	margin: 32px auto 0;
 	opacity: 0.3;
 	background-image: url(../../images/overlay-background.png);
 	background-size: cover;
@@ -19,7 +19,6 @@
 	.overlay {
 		width: 768px;
 		height: 746px;
-		margin-top: 92px;
 	}
 }
 
