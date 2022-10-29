@@ -3,3 +3,9 @@
 		margin-bottom: 200px;
 	}
 }
+
+@media screen and (min-width: 1280px) {
+	.margin-button {
+		margin-bottom: 0px;
+	}
+}

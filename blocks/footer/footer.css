@@ -4,13 +4,13 @@
 }
 
 @media screen and (min-width: 768px) {
-	.overlay__subtitle {
+	.footer {
 		padding-top: 88px
 	}
 }
 
-@media screen and (min-width: 768px) {
-	.overlay__subtitle {
+@media screen and (min-width: 1280px) {
+	.footer {
 		padding-top: 92px;
 	}
 }
