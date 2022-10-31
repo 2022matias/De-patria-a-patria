@@ -9,11 +9,6 @@
 	height: 254px;
 	width: 320px;
 	background-color: #2A2C2F;
-	opacity: 0.3;
-}
-
-.overlay:hover {
-	
 }
 
 @media screen and (min-width: 768px) {

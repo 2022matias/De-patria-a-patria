@@ -4,3 +4,9 @@
 *FLexbox
 *grid
 *Metodologia Bem
+*utilización de fuetes especificas descagadas
+
+### Esta pagina se trabajó bajo el concepto First Mobile y asi hacerla responsiva para los diferentes tamaños.
+
+### Aquí dejo el link para poder visualizar el proyecto en vivo.
+( https://2022matias.github.io/web_project_3_esp/)
