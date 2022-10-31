@@ -8,19 +8,19 @@
 
 .overlay__cover:hover {
   background-color: #2A2C2F;
-	opacity: 0.8;
+  opacity: 0.8;
 }
 
 @media screen and (min-width: 768px) {
-	.overlay__cover {
-		width: 768px;
-		height: 746px;
-	}
+  .overlay__cover {
+    width: 768px;
+    height: 746px;
+  }
 }
 
 @media screen and (min-width: 1280px) {
-	.overlay__cover {
-		width: 1184px;
-		height: 740px;
+  .overlay__cover {
+    width: 1184px;
+    height: 740px;
 }
 }

@@ -1,24 +1,24 @@
 .place {
-	width: 320px;
-	display: flex;
-	flex-direction: column;
+  width: 320px;
+  display: flex;
+  flex-direction: column;
 }
 
 @media screen and (min-width: 768px) {
-	.place {
-		display: grid;
-		grid-template-columns: 346px 346px;
-		align-self: start;
-		grid-column-gap: 28px;
-		grid-row-gap: 48px;
-	}
+  .place {
+    display: grid;
+    grid-template-columns: 346px 346px;
+    align-self: start;
+    grid-column-gap: 28px;
+    grid-row-gap: 48px;
+  }
 }
 
 @media screen and (min-width: 1280px) {
-	.place {
-		grid-template-columns: 472px 472px;
-		align-self: start;
-		grid-column-gap: 40px;
-		grid-row-gap: 48px;
+  .place {
+    grid-template-columns: 472px 472px;
+    align-self: start;
+    grid-column-gap: 40px;
+    grid-row-gap: 48px;
 }
 }

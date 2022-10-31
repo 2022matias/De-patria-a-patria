@@ -1,14 +1,14 @@
 
 .overlay__button {
-	width: 198px;
-	height: 48px;
-	background: #0278FE;
-	border-radius: 4px;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+  width: 198px;
+  height: 48px;
+  background: #0278FE;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .overlay__button:hover {
-	background-color: #0063D2;
+  background-color: #0063D2;
 }

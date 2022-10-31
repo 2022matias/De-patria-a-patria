@@ -1,27 +1,27 @@
 .overlay {
-	margin: 32px auto 0;
-	background-image: url(../../images/overlay-background.png);
-	background-size: cover;
-	background-repeat: no-repeat;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	height: 254px;
-	width: 320px;
-	background-color: #2A2C2F;
+  margin: 32px auto 0;
+  background-image: url(../../images/overlay-background.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 254px;
+  width: 320px;
+  background-color: #2A2C2F;
 }
 
 @media screen and (min-width: 768px) {
-	.overlay {
-		margin: 60px auto 0;
-		width: 768px;
-		height: 746px;
-	}
+  .overlay {
+    margin: 60px auto 0;
+    width: 768px;
+    height: 746px;
+  }
 }
 
 @media screen and (min-width: 1280px) {
-	.overlay {
-		width: 1184px;
-		height: 740px;
+  .overlay {
+    width: 1184px;
+    height: 740px;
 }
 }

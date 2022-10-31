@@ -1,27 +1,27 @@
 .place__button {
-	margin: 0px 14px 32px;
-	width: 288px;
-	height: 48px;
-	background: #0278FE;
-	border-radius: 4px;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+  margin: 0px 14px 32px;
+  width: 288px;
+  height: 48px;
+  background: #0278FE;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .place__button:hover {
-	background: #0063D2;
+  background: #0063D2;
 }
 
 @media screen and (min-width: 768px) {
-	.place__button {
-		width: 347px;
-		margin: 0;
-	}
+  .place__button {
+    width: 347px;
+    margin: 0;
+  }
 }
 
 @media screen and (min-width: 1280px) {
-	.place__button {
-		width: 347px;
-	}
+  .place__button {
+    width: 347px;
+  }
 }

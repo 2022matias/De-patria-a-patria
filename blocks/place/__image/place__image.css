@@ -1,15 +1,15 @@
 .place__image {
-	width: 100%;
+  width: 100%;
 }
 
 @media screen and (min-width: 768px) {
-	.place__image {
-		height: 340px;
-	}
+  .place__image {
+    height: 340px;
+  }
 }
 
 @media screen and (min-width: 1280px) {
-	.place__image {
-		height: 460px;
-	}
+  .place__image {
+    height: 460px;
+  }
 }
