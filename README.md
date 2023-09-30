@@ -11,4 +11,6 @@
 
 ### Esta pagina se trabajó bajo el concepto First Mobile y asi hacerla responsiva para los diferentes tamaños.
 
+![Recorrido del proyecto](./images/gifPatria.gif)
+
 
